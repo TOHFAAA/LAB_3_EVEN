@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: StudentGradeApp, Configuration: Debug Any CPU ------
+1>C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\Form1.Designer.cs(408,44,408,48): warning CS0108: 'Form1.Name' hides inherited member 'Control.Name'. Use the new keyword if hiding was intended.
+1>C:\Users\ASUS\source\repos\StudentGradeApp\StudentGradeApp\Form1.Designer.cs(396,25,396,32): error CS0029: Cannot implicitly convert type 'string' to 'System.Windows.Forms.Label'
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
